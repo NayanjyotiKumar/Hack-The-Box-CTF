@@ -7,7 +7,7 @@ Another Phishing document. Dig in and see if you can find what it executes.
 
 ## STEPS:
 1. Unzipping the .zip file shall resulting to an excel file.
-![241874508-664282f4-9f76-457d-abed-9c576f785a94](https://github.com/user-attachments/assets/0afd53b8-c04d-4b5d-9781-aae8dce09c8c)
+![351210843-0afd53b8-c04d-4b5d-9781-aae8dce09c8c (1)](https://github.com/user-attachments/assets/8d421c4a-680d-4640-b12f-f8baa6bbf704)
 
 2. Since it's an excel file, let's check are there any VBA Macros.
 3. To check that, run **olevba** to it.
